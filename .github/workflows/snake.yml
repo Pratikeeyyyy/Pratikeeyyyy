@@ -23,6 +23,8 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+            dist/snake-full.svg
+            dist/snake-full-dark.svg?palette=github-dark
           
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
