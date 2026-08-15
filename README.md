@@ -36,7 +36,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikeeyyyy/pratikeeyyyy/output/snake.svg?cache=20260815b">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikeeyyyy/pratikeeyyyy/output/snake.svg?cache=20260815b">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/pratikeeyyyy/pratikeeyyyy/output/snake.svg?cache=20260815b">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikeeyyyy/pratikeeyyyy/output/snake.svg?cache=20260815c">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikeeyyyy/pratikeeyyyy/output/snake.svg?cache=20260815c">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/pratikeeyyyy/pratikeeyyyy/output/snake.svg?cache=20260815c">
 </picture>
